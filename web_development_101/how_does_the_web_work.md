@@ -47,3 +47,6 @@ We'll also cover a few tips and tools that will be useful to you again and again
 * [Pesticide.io is a chrome extension that puts a bright box around every `<div>` on the page](http://pesticide.io/).  That makes it easy to see the makeup of a page without scrolling through all the elements on it with your developer tools.
 * [How the Internet Works [For Web Developers] - Part 1](https://www.youtube.com/watch?v=e4S8zfLdLgQ)
 * [How the Internet Works [For Web Developers] - Part 2](https://www.youtube.com/watch?v=FTAPjr7vgxE)
+* These two articles explain how the Internet&Web work - in layman's terms and with great analogies:
+* [How the Internet Works](http://www.explainthatstuff.com/internet.html).
+* [How the World Wide Web (WWW) works](http://www.explainthatstuff.com/howthewebworks.html).
